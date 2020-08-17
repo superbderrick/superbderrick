@@ -3,9 +3,7 @@
 - 👨🏽‍💻 Currently working as a Software Engineer in Korea I am an expert in Android and iOS App developments and Video live streaming technologies and unity mobile technologies Especially I spent a lot of time on providing software development kit among various platforms in my career
 
 - 😊 Willing to contribute in opensource development projects
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 🌐 Visit my [porfolio website](https://jinyoung.dev/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://jinyoung.dev/) for complete background and contact
 
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1)  -->
 
