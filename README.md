@@ -1,9 +1,20 @@
 ### Hi there 👋 I am Derrick :)
 
 - 👨🏽‍💻 Currently working as a Software Engineer in Korea I am an expert in Android and iOS App developments and Video live streaming technologies and unity mobile technologies Especially I spent a lot of time on providing software development kit among various platforms in my career
-
 - 😊 Willing to contribute in opensource development projects
 - 🌐 Visit my [porfolio website](https://jinyoung.dev/) for complete background and contact
+- 🌟 Specialized on Development fields
+  - Mobile Software Development Kit Development
+  - iOS and Android App Development
+  - Unity Plugin Development
+
+- 🌟 Interested Development Areas
+  - Machine learning technologies with Python
+  - Computer vision technologies with iOS Swift
+
+
+  
+
 
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1)  -->
 
