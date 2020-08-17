@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Derrick :)
 
-- 👨🏽‍💻 Currently working, I am working as a Software Engineer in Korea I am an expert in Android and iOS App developments and Video live streaming technologies and unity mobile technologies
-Especially I spent a lot of time on providing software development kit among various platforms in my career
+- 👨🏽‍💻 Currently working as a Software Engineer in Korea I am an expert in Android and iOS App developments and Video live streaming technologies and unity mobile technologies Especially I spent a lot of time on providing software development kit among various platforms in my career
 
 - 😊 Willing to contribute in opensource development projects
 - 🤝 Open for collaborations in deep learning, analytics and data science.
