@@ -12,12 +12,6 @@
   - Machine learning technologies with Python
   - Computer vision technologies with iOS Swift
 
-
-  
-
-
-<!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1)  -->
-
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
 
