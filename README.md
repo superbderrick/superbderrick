@@ -9,7 +9,6 @@
   - Unity Plugin Development
 
 - 🌟 Interested Development Areas
-  - Machine learning technologies with Python
   - AR or XR or VR techs with Unity 
 
 <details open>
