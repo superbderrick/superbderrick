@@ -7,6 +7,7 @@
   - Mobile Software Development Kit Development
   - iOS and Android App Development
   - Unity Plugin Development
+  - Video streaing techs like HLS Dash on varous platforms e.g android and iOS, Web 
 
 - 🌟 These are the things I am studying these days
   - AR Unity 
