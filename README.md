@@ -11,8 +11,8 @@
 
 - 🌟 These are the things I am studying these days
   - AR Unity 
-  - Android clean architectures and latest skills 
-  - I am backend development newbie , Trying to learn cloud techs 
+  - Flutter 
+  - Trying to learn cloud techs 
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
