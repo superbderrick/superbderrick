@@ -10,7 +10,7 @@
   - Video streaing techs like HLS Dash on varous platforms e.g android and iOS, Web 
 
 - 🌟 These are the things I am studying these days
-  - AR Unity 
+  - Unity 
   - Flutter 
   - Trying to learn cloud techs 
 
