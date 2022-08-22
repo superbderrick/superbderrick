@@ -5,7 +5,7 @@
 - 🌐 Visit my [Porfolio website](https://jinyoung.dev/) for complete background and contact
 - 🌟 Specialized on Development fields
   - Mobile Software Development Kit Development
-  - iOS and Android App Development
+  - iOS and Android , Unity App Development
   - Unity Plugin Development
   - Video streaing techs like HLS Dash on varous platforms e.g android and iOS, Web 
 
