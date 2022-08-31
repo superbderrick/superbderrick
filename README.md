@@ -11,7 +11,7 @@
 
 - 🌟 These are the things I am studying these days
   - Unity 
-  - Flutter 
+  - iOS
   - Trying to learn cloud techs 
 
 <details open>
