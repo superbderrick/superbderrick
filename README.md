@@ -11,7 +11,7 @@
 
 - 🌟 These are the things I am studying these days
   - Unity 
-  - iOS
+  - iOS with Vision OS 
   - Trying to learn cloud techs 
 
 <details open>
